@@ -12,6 +12,7 @@ This project relies on:
 * Node.js https://nodejs.org/en/
 * web3.js https://github.com/ethereum/web3.js/
 * Geth https://github.com/ethereum/go-ethereum/wiki/geth
+* Solidity programming language for smart-contracts
 * MQTT http://mqtt.org/
 * NODE-RED https://nodered.org/
 
@@ -64,6 +65,6 @@ STEPS
   pi@emonpi(rw):~$ sudo nano /etc/iptables/rules.v4
   ```
 
-Once finished all the steps, the configuration is ready. Import the flow available inthe repository into NODE-RED to get started.
+Once finished all the steps, the configuration is ready. Import the flow available at http://flows.nodered.org/flow/6fb801127cfbfb81b3e629b5d336900c into NODE-RED to get started.
   
   
