@@ -12,7 +12,7 @@ This project relies on:
 * Node.js https://nodejs.org/en/
 * web3.js https://github.com/ethereum/web3.js/
 * Geth https://github.com/ethereum/go-ethereum/wiki/geth
-* Solidity programming language for smart-contracts
+* Ethereum token contracts https://github.com/ConsenSys/Tokens
 * MQTT http://mqtt.org/
 * NODE-RED https://nodered.org/
 
