@@ -68,3 +68,4 @@ STEPS
 Once finished all the steps, the configuration is ready. Import the flow available at http://flows.nodered.org/flow/6fb801127cfbfb81b3e629b5d336900c into NODE-RED to get started.
   
   
+ © 2017 Simone Accornero, Grzegorz Bytniewski
